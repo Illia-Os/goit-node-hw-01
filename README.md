@@ -1,3 +1,5 @@
+Cкріншоти виконання команд:
+
 [node index.js --action="list"](https://drive.google.com/file/d/1E9S-lpnIEm96xuikvSqTXsClTfggzolK/view)
 
 [node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6](https://drive.google.com/file/d/1aZdyO95YbKLv-jIEqorzCu8RrBsFvAmY/view)
